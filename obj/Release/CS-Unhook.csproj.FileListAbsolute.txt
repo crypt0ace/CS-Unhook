@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\obj\Release\CS-Unhook.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\obj\Release\CS-Unhook.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\obj\Release\CS-Unhook.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\bin\Release\CS-Unhook.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\bin\Release\CS-Unhook.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\bin\Release\CS-Unhook.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\obj\Release\CS-Unhook.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Blog\CS-Unhook\obj\Release\CS-Unhook.pdb
